@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+yt-dlp>=2024.1.0
+mutagen>=1.47.0
+pygame>=2.5.0
+Pillow>=10.0.0
