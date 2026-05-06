@@ -56,7 +56,7 @@
 ## 🖥️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MusicHub.git
+git clone https://github.com/Deep-Black-Stone/MusicHub.git
 cd MusicHub
 ```
 
@@ -173,7 +173,7 @@ MIT License
 ## 🖥️ التثبيت
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MusicHub.git
+git clone https://github.com/Deep-Black-Stone/MusicHub.git
 cd MusicHub
 ```
 
